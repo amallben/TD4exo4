@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">td4exo4</string>
+
+    <string-array name="profession_array">
+        <item>" Professeur Socio-linguiste. Univ. Paris Descartes
+Rattachée à l‟UMR 196 CEPED Université Paris Descartes-INED-IRD"</item>
+        <item>" Maître de conférences en linguistique Montpellier 2 et 3
+Rattachée à DIPRALANG EA 739, Montpellier3
+Doctorat de linguistique. HDR"</item>
+        <item>"Maître de conférences en anthropo-linguistique. Univ. Paris Descartes
+Rattachée au CANTHEL, (Centre d‟Anthropologie Culturelle), Univ.Paris Descartes
+Associée au LLACAN (Langage, Langues et Cultures d‟Afrique Noire. UMR 8135
+Doctorat d‟anthropologie. HDR"</item>
+    </string-array>
+
+    <string-array name="duree_array">
+        <item>"La durée de la seance est : 4 hrs"</item>
+        <item>"La durée de la seance est : 2 hrs"</item>
+        <item>"La durée de la seance est : 1 hrs 30"</item>
+    </string-array>
+
+    <string-array name="module_array">
+        <item>"Developpement Mobile"</item>
+        <item>"METHODE AGILE"</item>
+        <item>"MACHINE LEARNING"</item>
+    </string-array>
+
+    <string-array name="intitule_array">
+        <item>"Une application mobile est un logiciel applicatif développé pour un appareil électronique mobile, tel qu'un assistant personnel, un téléphone portable, un smartphone, un baladeur numérique, une tablette tactile, ou encore certains ordinateurs fonctionnant avec le système d'exploitation Windows Phone ou Chrome OS."</item>
+        <item>"la déclinaison de la méthode Agile la plus utilisée, le travail se fait en "sprints" (périodes d'itération), avec des objectifs à deux, trois semaines. Les priorités des uns et des autres vont ainsi être réajustées à chaque sprint.
+            Ce qui permet de lisser la charge de travail dans le temps"</item>
+        <item>"Le machine learning dit apprentissage automatique est un phénomène démontrant comment des algorithmes peuvent “apprendre” en étudiant des exemples. L'idée est alors de collecter un maximum de données, de les analyser et de trouver un lien permettant de créer une règle et donc de réaliser des prédictions."</item>
+    </string-array>
+
+    <string-array name="enseignant_array">
+        <item>" Monsieur BATATA"</item>
+        <item>"Monsieur MOSTEFAI"</item>
+        <item>"Monsieur BENATCHBA"</item>
+    </string-array>
+
+
+</resources>
